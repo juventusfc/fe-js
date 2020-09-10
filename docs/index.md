@@ -6,7 +6,7 @@ JavaScript 的主要功能是响应用户对网页的行为，从而更改网页
 
 JavaScript 文件从编写到执行的过程为：
 
-![javascript](../assets/img/javascript.png)
+![javascript](./assets/img/javascript.png)
 
 图中，编写 JavaScript 文件并以二进制流的形式存储。当需要执行这个文件时，将文件以二进制流的形式读取出来，交给 JavaScript 引擎去解码、词法分析、语法分析、执行。
 
